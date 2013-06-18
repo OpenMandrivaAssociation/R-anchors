@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          3.0_7
-Release:          1
+Release:          2
 Summary:          Statistical analysis of surveys with anchoring vignettes
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
