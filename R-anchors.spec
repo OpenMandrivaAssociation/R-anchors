@@ -7,7 +7,7 @@ Release:          2
 Summary:          Statistical analysis of surveys with anchoring vignettes
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_3.0-7.tar.gz
 Requires:         R-rgenoud R-MASS 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-rgenoud R-MASS
